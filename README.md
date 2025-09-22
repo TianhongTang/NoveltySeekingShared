@@ -1,1 +1,1 @@
-# NoveltyCollab
+# NoveltySeeking-Shared
