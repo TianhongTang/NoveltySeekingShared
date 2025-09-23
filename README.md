@@ -1,1 +1,1 @@
-# NoveltySeeking-Shared
+# ThalamoCorticalNetwork
